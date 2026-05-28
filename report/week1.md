@@ -16,7 +16,7 @@ What I completed
 	- `04_primitive_types`
 	- `05_vecs`
 - CKB Academy: Completed the first course covering CKB basic theoretical knowledge.
-![Screenshot of ckb academy course 1 page](image.png)
+![Screenshot of ckb academy course 1 page](academy1.png)
 
 I make commits for every rustling section I complete
 
